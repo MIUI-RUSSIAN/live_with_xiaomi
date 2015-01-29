@@ -26,9 +26,9 @@ First Thing First
 ====
 Let's remove some stock malware.
 
-It is **HIGHLY RECOMMENDED** not to
+It is **HIGHLY RECOMMENDED NOT TO**
 * Connecting WiFi
-* Insert SIM/USIM/R-UIM... cards
+* Insert any SIM/USIM/R-UIM... cards
 * Setup e-mail or any other accounts (I saw Email.apk connecting a server in Beijing, even after I typed a fake email/password)
 
 before malwares are removed. Or your privacy might very likely to be sent to **Beijing**.
